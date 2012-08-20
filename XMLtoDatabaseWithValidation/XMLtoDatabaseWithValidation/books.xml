@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<bookstore>
+  <book genre="drama" publicationdate="5/16/2010 11:30:00 AM" ISBN="1-9876-1234-4">
+    <title>The Graduate</title>
+    <author>
+      <first-name>Dustin</first-name>
+      <last-name>Hoffman</last-name>
+    </author>
+  </book>
+  <book genre="comedy" publicationdate="3/1/2012 12:00:00 AM" ISBN="1-3294-7787-1">
+    <title>Animal House</title>
+    <author>
+      <first-name>Tony</first-name>
+      <last-name>Farrow</last-name>
+    </author>
+  </book>
+</bookstore>
